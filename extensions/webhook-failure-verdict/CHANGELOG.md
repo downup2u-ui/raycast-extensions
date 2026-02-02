@@ -1,3 +1,5 @@
 # Webhook Failure Verdict Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## Initial Version
+
+- Initial release of the Webhook Failure Verdict extension.
